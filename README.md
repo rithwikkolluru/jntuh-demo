@@ -1,4 +1,4 @@
 # jntuh-demo
 exploring git repository
-Author,Developer: rithwik
-and here I am helping my college i Tech development 
+Author,Developer: K.Rithwik Chowdary
+and here I am helping my college in Tech development 
